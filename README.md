@@ -49,7 +49,8 @@
 ### Como as IAs Generativas podem ajudar na automação essa atividade:
 - É possível usar a capacidade de sumarização das IAs generativas para fornecer uma visão geral dos conceitos encontrados nos artefatos arquiteturais previamente gerados.
 
-### Discussão final quanto ao futuro das IAs Generativas na Arquitetura de Software
+## Discussão final quanto ao futuro das IAs Generativas na Arquitetura de Software
+<pre>
    O segredo é não esperar inovações milagrosas de IAs Generativas (IAGen) e que as mesmas resolvam os desafios intrínsecos à missão que é a automatização de processos acerca da arquitetura de projetos de software.
    Ainda assim, isso não quer dizer que não haja luz ou esperança nesse poço, ainda existe um grande espaço para melhorias processuais com a automação com auxílio de inteligência artificial, todavia, para conseguir extrair benefícios reais dessa possibilidade, há alguns critérios e recomendações que devem guiar os esforços dos arquitetos:
 
@@ -67,3 +68,4 @@ Para superar os pontos supracitados, é necessário:
    As IAGens podem ajudar programadores e arquitetos a migrarem de modelos datados, ganharem mais eficiência em seus processos e em diversos outros aspectos que agradecem melhorias.
    Mas para um resumo final do que é trabalhado nesse artigo, podemos voltar ao título do mesmo, "As Inteligências Artificiais Generativas vão suprir as falhas e buracos da automação de arquiteturas de software?" e, a reposta trazida aqui é que, não sozinha, porém traz oportunidades de crescimento e depende de abrir espaço e ser feito um esforço ativo para inicialmente acomodar esse novo modelo e integrá-lo em processos já existentes.
    Não é uma solução milagrosa pronta para cobrir todos os vazios deixados em arquiteturas ao longo do tempo, e sim mais uma peça para ser cuidadosamente colocada na engrenagem que é a produção de softwares num geral.
+</pre>
