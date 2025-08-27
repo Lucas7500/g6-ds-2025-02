@@ -1,10 +1,21 @@
 # Atividades comuns de arquitetura
 
 
-## Definir Requisitos Arquiteturalmente Significativos
+## Definir Requisitos Arquiteturalmente Significativos(ASRs) e apoio no processo de avaliação e documentação
 - Identificar stakeholders relevantes e suas preocupações
 - Gerar requisitos bem-formados e assegurar sua relevância
 - Saber quais requisitos priorizar
+- Identificar os conjuntos de decisões e alternativas necessárias
+- Enumerar decisões de arquitetura anteriores
+- Extrair fatos de artefatos 
+
+## Pontos Abstratos que as GenAI não são eficazes
+- Priorização de ASRs e suas relevâncias
+- Selecionar e refinar alternativas do projeto de arquitetura
+- Avaliar a qualidade de alternativas
+- Alinhar decisões com seu posicionamento na arquitetura
+- Avaliar e identificar conflitos entre decisões e satisfação das ASRs
+- Determinar e gerar quais decisões precisam de um texto de apoio
 
 ### Como as IAs Generativas podem ajudar na automação essa atividade:
 - É possível utilizar a capacidade brainstorming das IAs Generativas para ajudar identificação dos tipos de stakeholders e suas preocupações comuns. Ainda que as sugestões não estejam precisas de acordo com a organização, estas seriam facilmente revisadas e corrigidas por um arquiteto.
@@ -15,6 +26,8 @@
 - Identificar decisões necessárias e as dependências que estas trazem consigo
 - Identificar, comparar, selecionar e refinar as alternativas para resolução dos problemas considerando o contexto
 - Prototipar alternativas para melhor comparação e avaliação destas
+- Limitações: Ausência de Consistência e coerência nas diferentes partes de uma arquitetura gerada; Imprópria para reconhecimento e análise Escpecífica dos requisitos, generalizando de acordo com a Sabedoria das Massas
+  
 
 ### Como as IAs Generativas podem ajudar na automação essa atividade:
 - É possível utilizar as capacidades de checagem de fatos e análise objetiva das IAs para produzir respostas gerais, incluindo vantagens e desvantagens, das decisões arquiteturais comuns.
@@ -36,6 +49,7 @@
 - Decidir a melhor representação para cada decisão (diagramas, representação textual, etc)
 - Determinar quais decisões, sejam estas complexas ou não-óbvias, precisam de justificativas
 - Justificar as decisões
+- Limitações: ausência de uma alta fidelidade nos conceitos abstratos necessários para os desenvolvedores; A GenAI não entende a semântica técnica complexa de forma inerente aos diagramas de arquitetura;
 
 ### Como as IAs Generativas podem ajudar na automação essa atividade:
 - É possível utilizar as capacidades de brainstorming das IAs generativas para prover guias de boas práticas de documentação, estruturar o documento seguindo boas práticas, definir quais representações serão utilizadas e qual a melhor forma de representar cada requisito arquitetural. Toda essa capacidade é baseada em como esses requisitos são tipicamente tratados em exemplos públicos.
